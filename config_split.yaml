@@ -1,0 +1,8 @@
+seed: 42
+
+root: /home/sthueva/Documents/kaggle/
+competition: commonlit-evaluate-student-summaries
+input_path: input
+
+train:
+  n_folds: 4
